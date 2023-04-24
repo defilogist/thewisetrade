@@ -3,10 +3,47 @@
 @tailwind utilities;
 
 body {
-  background-color: #F8F4EA;
+  background-color: #E1D7C6;
+  color: #444;
+  padding-bottom: 2em;
 }
 
 p {
     margin-top: .2em;
     margin-bottom: .8em;
+}
+
+h1 {
+  @apply text-3xl mt-8 mb-6 font-bold text-center;
+}
+
+h2 {
+  font-size: 1.2em;
+  @apply mb-4 mt-8 font-bold;
+}
+
+h3 {
+  font-size: 1em;
+  @apply mb-2 mt-6 font-bold;
+}
+
+.guide-link {
+  height: 240px;
+  padding: 1em .4em 1em .4em;
+  @apply font-bold shadow rounded-md border text-center;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.linkblock {
+  @apply font-bold shadow p-2 rounded-md text-darkblue border;
+}
+
+.guide-link img {
+  max-width: 150px;
+  margin: auto;
+  margin-bottom: .5em;
+}
+
+ul {
+    @apply list-disc ml-4 mt-2 mb-2;
 }

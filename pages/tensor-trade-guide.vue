@@ -1,82 +1,290 @@
 <template>
-**Basics**
-
-- To become a good trader you have to practice and make mistakes (you will lose money during the process).
-- It requires much more patience than you think. Many collections took months to take off.
-- You have to understand the market to take good positions. It requires to spend time on marketplaces and on collection Twitters and Discords.
-- Day trading is a full-time job, so if it’s not your main occupation, don’t look for quick wins
-- It’s a very irrational market where hype plays a lot in the floor price. See collections as fashion brands. You cannot ignore the hype effect in your investments.
-
-
-**Listing**
-
-- Identify listing walls and list your NFTs slightly below to ensure its selling.
-- If the collection is dumping you have to list significantly below the floor to sell quickly.
-- If the collection is pumping or stable, list it around the floor.
-- Clean NFTs tend be sold faster but not at a higher price.
-- Listing is great for settling your selling strategy. But it will prevent you from getting perks.
-- If you are holding on the long term it’s better to not list.
-
-**Bidding**
-
-- Look for rare pieces where the owner decreases frequently the price. Bid with a 10-20% discount or slightly above the floor price. They will probably accept.
-- Place a reasonable collection bid on projects you like. Many people need liquidity fast, they will enjoy to accept your bid
-- Be aware that your liquidity is not available quickly when you bid (you have to remove it from the bid to access it again).
-
-
-  **Holding**
-
-- Staking makes sense only if you wants to keep the NFTs on a long term. If that’s not the case, don’t let it impact your investment strategy.
-- Many major collections have a sub collection. It’s better to buy the subs since you can split the sell more easily.
-- It’s better to buy several NFTs from a collection and sell them gradually.
-- When you do gradual sells, keep a few NFT from your conviction play in your long-term inventory.
-- Or buy a few high conviction NFTs when you make big wins.
-- Bitcoin took 10 years to reach 60k, so it’s not absurd to hold some NFTs a few years.
-
-
-**Taking profits**
-
-- X2 or X3 are already very good profits.
-- Every time you are in green, be satisfied. Don’t look back.
-- x1.2 can already be very good if the initial investment is heavy.
-- x1.2 is better than a negative move.
-- Take some profit in FIAT, it’s good to get rewards from time to time
-
-**Risk management**
-
-- If a NFT makes a significant pump a day or two after you buy it, sell it. Most of the time it will dump the following days (and buy it again if you believe in it).
-- Sell when it pumps. During bull runs you should be more and more liquid.
-- Hold when it dumps. Or cut your loss at bad price to be sure the NFT is sold if you consider that the collection is dead. Selling during dumps is harder.
-- Selling requires collection activity. Before buying from a collection, consider this because it can make your expected sale much slower.
-- During bear cycles, use your liquidity gradually to buy underpriced collections. It’s normal to be less and less liquid over time.
-- During the bear if something goes up, sell at x2 or x3, don’t wait for better performances.
-- Most NFTs success are based on good marketing from the team. So if you are already heavily in profit, consider to sell a part of them. The marketing can fade quickly.
-- Leaving a collection while making profit doesn’t mean you can’t come back. You will be able to buy back the NFTs during the next bear cycle.
-- It may sound counterintuitive but selling a Degods at 40 or 50 during their pump was a great decision if it was a significant part of the holder portfolio. It secured gains and didn’t bet on the risky scenario that it would go higher.
-- Use a different wallet than your holdings when minting.
-- Keep a significant percentage of your wallet in sols.
-
-Data
-
-
-**Do your own research**
-
-- Before investing in a collection you should check the collection website, Twitter and Discord
-- Bad art, poor website, unactive twitters are bad signals
-- Discord with low activity or with floor price discussions only are bad signals
-- Services attached to the NFT like software or goodies are good signals
-- Active communication from the team and good vibe from the community are good signals
-- A high proportion of listing is a bad signal
-- Absence of volume may be a bad signal (lack of activity).
-- Small collections can have low activity but in that case, it’s preferable they have a low listing rate.
-- Getting in early into a collection doesn’t mean getting in super early. For instance, you could have entered confidently in the Famous Foxes when they were selling at 10 sols. At that time they already proved their value. It would have been better to spot them earlier but 10 was still a good entry point.
-
-**Alpha calls**
-
-- Alphas are signals, they don’t guarantee anything.
-- Most of them are wrong.
-- They are emitted by people who follows the market.
-- But some alpha callers are tempted to dump their bag taking advantage of their influence.
-- Alpha callers brag loud when they win, they don’t say anything when they miss their targets.
-- See alpha calls as market data not advice.
+  <h1>Tensor Quickstart Guide</h1>
+  <p>
+    After trading for a while your NFTs on Magic Eden, you will notice that
+    there are a lot of fancy stuff that comes into your way. You will feel a
+    little bit limited and think that things could be more straightforward. You
+    are trading on a regular basis and understand that you need more advanced
+    tooling. But what to chose next? Good news, a platform recently emerged
+    solving this problem:
+    <a
+      href="https://www.notion.so/Tensor-Quickstart-Guide-e64e32bda68a4a92a201073afc11dd1d"
+      >Tensor Trade</a
+    >.
+  </p>
+  <p>
+    This platform initially is designed for pro-traders. But, for a casual
+    trader, it is a very powerful tool too. That’s why I wrote this guide that
+    will help you to take the most out of Tensor in a few minutes. It covers the
+    main features you can use to improve your NFT trading on Solana.
+  </p>
+  <h1 id="1-list-hot-and-favorite-collections">
+    1. List hot and favorite collections
+  </h1>
+  <h3 id="collections-list">Collections List</h3>
+  <p>
+    The biggest strength of Tensor is its hot collection list. It’s super fast
+    to load and it shows you all the main information about a collection: floor
+    price, 24h volume, 24h floor price change, number of elements listed. In a
+    glimpse, you have information needed to make your buying or selling
+    decisions. It’s the first thing you see when you connect to the website.
+  </p>
+  <p>
+    Bonus: Everything is updated in real-time, you don’t need to refresh your
+    browser. Your tabs can stay open.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da3698cd-c2b7-4a8b-a80f-f0f9aa5fb951/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h3 id="filters">
+    <em><strong>Filters</strong></em>
+  </h3>
+  <p>
+    Most of the time, you don’t need to see the collections you can’t afford.
+    For instance it’s not that interesting to see Degods on the top of the list.
+    If you can spend 50 sols at maximum, you don’t care about their current
+    floor price. For this reason, the Collections list can be filtered very
+    easily.
+  </p>
+  <p>
+    With filters you will be able to remove everything above your maximum
+    investment capability. In the same vein, you will be able to filter
+    collections with low volume. It will remove many false positive. In the end,
+    with a few clicks, you will see the hot collection of the day or week in
+    your investment range.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15b511db-dd22-4341-a7b1-617a1bb5e601/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    There are too much data flowing in the NFT market while you need focus to
+    make good investments. Tensor removes the fancy stuff in both ways: through
+    its clean UI and with the filters that cleans noise from the data.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10e4cd3b-f914-4ad8-9d65-3c2142d2c1a0/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h3 id="favorites">
+    <em><strong>Favorites</strong></em>
+  </h3>
+  <p>
+    It’s common to follow only a given set of collections. You did your
+    researches about them and want to track only the evolution of the collection
+    with the biggest potential.
+  </p>
+  <p>
+    To make things easier, Tensor allows you to mark collections as favorites.
+    You can mark a favorite in the collection or directly in the search results
+    via a research in the search bar (which is very handy)
+  </p>
+  <p>
+    Then you can ask to only shows your favorite collections and watch their
+    main information. Similar to the filter, it allows you to set up lists of
+    interest quickly.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f5b83fe-dcb7-4ad5-8bd3-abcf0cf87249/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    You can manage three lists of favorites, via the bottom bar if you need to
+    classify your favorites:
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b19a7a32-70db-4ce9-be2a-2348762a3e71/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h1 id="2-manage-your-inventory">2. Manage your inventory</h1>
+  <h3 id="display-inventory">
+    <em><strong>Display inventory</strong></em>
+  </h3>
+  <p>There are two ways to display your inventory:</p>
+  <ol>
+    <li>
+      Clicking on the top right “Inventory” button. It Displays a panel giving
+      you a quick access to it with a recap of all floor prices and buttons for
+      quick access to the related collection. You can click on any NFT to list
+      it.
+    </li>
+  </ol>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dc9bf6f-877f-482f-bd97-c37624ae3f1a/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <ol>
+    <li>
+      Or by using the Portfolio button in the top left menu. From there you will
+      be able to display your inventory in a full page. Everything is summarized
+      on the left. On the right you have access to all your NFTs. By clicking on
+      them you will be able to list them via a dedicated modal window.
+    </li>
+  </ol>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d93c059f-fc7d-4472-9137-40f71c4994fd/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>The listing modal:</p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbad973a-b01d-492c-b96d-b840e7730adb/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    You can list your NFT with a similar mechanism but remember that the moto of
+    Tensor is efficiency, so no confirmation will be asked. Be sure before
+    setting a list price.
+  </p>
+  <h1 id="3-trade-your-nfts">3. Trade your NFTs</h1>
+  <h3 id="buy-and-list-nft">
+    <em><strong>Buy and list NFT</strong></em>
+  </h3>
+  <p>
+    I won’t cover here the buying and listing of NFTs because it’s very
+    straighforward. When you put your mouse over a NFT, it proposes you to buy
+    it if you are browsing a collection, or selling it if you are holding it.
+    Tensor allows you too to swap your floor NFT with another one from their
+    liquidity pools when swapping is available.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c647494-780d-4f83-94f5-3eee6aeb2a7c/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h3 id="collect-information-on-collection-recent-activity-rarities-and-more">
+    <em
+      >Collect information on collection: recent activity, rarities and more</em
+    >
+  </h3>
+  <p>
+    Another strong point of Tensor is the data displayed when browsing an NFT
+    collection. On the same screen you can have:
+  </p>
+  <ul>
+    <li>The price evolution</li>
+    <li>The main collection statistics (listing, volume, …)</li>
+    <li>
+      NFTs price and rarity levels in a form of pictures or list (it requires to
+      switch between light and pro mode via the bottom bar)
+    </li>
+    <li>The recent activity</li>
+  </ul>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e91bf8f9-4917-4d14-944c-05a83052cb1f/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a501a885-cba7-4c22-a9ba-4bb5499cbf11/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    Another strong point is the fact is that there is tab showing book order
+    walls to guess the upcoming resistance:
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/868bba09-e21f-4703-b102-26ae69427bf1/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>And a tab to track rare traits floor price:</p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb78dd57-2ef7-49ea-8d88-95ad086d0122/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    With all this data at hand, you have everything you need for your buying
+    decision whether you want to buy at floor price or looking for rare pieces
+    from the collection. Tensor truly empowers you for a maximum efficiency.
+  </p>
+  <h3 id="floor-sweeping"><em>Floor sweeping</em></h3>
+  <p>
+    A floor sweeping tool (and the equivalent for buying) is available right in
+    the application which is pretty convenient to invest heavily in a
+    collection.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfc64fb1-d623-40f4-818b-e62a552e3567/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h3 id="bid-a-collection"><em>Bid a collection</em></h3>
+  <p>
+    Another very useful feature is the capability to bid a collection like in
+    Magic Eden. It allows you to provide quick exit liquidity for holders who
+    need to sell their NFT quickly. You set a price and anyone can sell his NFT
+    to you instantly. That way, you can accumulate NFTs from this collection at
+    a price below the Floor price. You can set multiple bids if you want to
+    gradually buy a collection of which the price is going down.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3071f03-0c97-4ca5-b4f0-43fa085cc4b0/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h3 id="amm-and-swing-trading"><em>AMM and Swing Trading</em></h3>
+  <p>
+    One of the main product of Tensor trade is the Auto Market Making feature.
+    It’s more aimed at big holders or collection managers but it can be useful
+    to you too. The idea is to provide liquidity to a collection. You provide
+    both sols and NFTs and set buy and sell prices. Your sols are use as buying
+    bids on the collection while all your NFTs are listed at your sell price. So
+    when the price moves around your buying and sell price, tensor will
+    automatically buy and sell the collection NFTs. It will allow the other
+    users to do quick buys or sells and you will accumulate sols from the margin
+    done at each sale. The only issue is when the price leaves the price range.
+    You have to either wait until the price range is reached again or modifiy it
+    to adapt to the new accumulation zone.
+  </p>
+  <p>Here is a very simple example of AMM settings for a single NFT:</p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b589aec5-f244-426c-a7d6-cce7aeb404db/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    That’s it for this Tensor quickstart guide! I hope it was useful to you. If
+    you don’t know this tool, I really encourage you to give it a try. I show
+    you that it gives you a very fast UI to do your trading and provide you with
+    all the data you need to take your decision. It definitely has its place in
+    your daily NFT trading routine.
+  </p>
+  <p>
+    You will find more information in their official documentation:
+    <a href="https://docs.tensor.trade/welcome/about"
+      >https://docs.tensor.trade/welcome/about</a
+    >
+  </p>
+  <p>
+    I would be glad to have your feedback about my guide, so feel free to
+    contact me on Twitter to give me your thoughts! Thank you for your
+    attention!
+  </p>
 </template>

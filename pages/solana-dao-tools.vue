@@ -1,82 +1,119 @@
 <template>
-**Basics**
-
-- To become a good trader you have to practice and make mistakes (you will lose money during the process).
-- It requires much more patience than you think. Many collections took months to take off.
-- You have to understand the market to take good positions. It requires to spend time on marketplaces and on collection Twitters and Discords.
-- Day trading is a full-time job, so if it’s not your main occupation, don’t look for quick wins
-- It’s a very irrational market where hype plays a lot in the floor price. See collections as fashion brands. You cannot ignore the hype effect in your investments.
-
-
-**Listing**
-
-- Identify listing walls and list your NFTs slightly below to ensure its selling.
-- If the collection is dumping you have to list significantly below the floor to sell quickly.
-- If the collection is pumping or stable, list it around the floor.
-- Clean NFTs tend be sold faster but not at a higher price.
-- Listing is great for settling your selling strategy. But it will prevent you from getting perks.
-- If you are holding on the long term it’s better to not list.
-
-**Bidding**
-
-- Look for rare pieces where the owner decreases frequently the price. Bid with a 10-20% discount or slightly above the floor price. They will probably accept.
-- Place a reasonable collection bid on projects you like. Many people need liquidity fast, they will enjoy to accept your bid
-- Be aware that your liquidity is not available quickly when you bid (you have to remove it from the bid to access it again).
-
-
-  **Holding**
-
-- Staking makes sense only if you wants to keep the NFTs on a long term. If that’s not the case, don’t let it impact your investment strategy.
-- Many major collections have a sub collection. It’s better to buy the subs since you can split the sell more easily.
-- It’s better to buy several NFTs from a collection and sell them gradually.
-- When you do gradual sells, keep a few NFT from your conviction play in your long-term inventory.
-- Or buy a few high conviction NFTs when you make big wins.
-- Bitcoin took 10 years to reach 60k, so it’s not absurd to hold some NFTs a few years.
-
-
-**Taking profits**
-
-- X2 or X3 are already very good profits.
-- Every time you are in green, be satisfied. Don’t look back.
-- x1.2 can already be very good if the initial investment is heavy.
-- x1.2 is better than a negative move.
-- Take some profit in FIAT, it’s good to get rewards from time to time
-
-**Risk management**
-
-- If a NFT makes a significant pump a day or two after you buy it, sell it. Most of the time it will dump the following days (and buy it again if you believe in it).
-- Sell when it pumps. During bull runs you should be more and more liquid.
-- Hold when it dumps. Or cut your loss at bad price to be sure the NFT is sold if you consider that the collection is dead. Selling during dumps is harder.
-- Selling requires collection activity. Before buying from a collection, consider this because it can make your expected sale much slower.
-- During bear cycles, use your liquidity gradually to buy underpriced collections. It’s normal to be less and less liquid over time.
-- During the bear if something goes up, sell at x2 or x3, don’t wait for better performances.
-- Most NFTs success are based on good marketing from the team. So if you are already heavily in profit, consider to sell a part of them. The marketing can fade quickly.
-- Leaving a collection while making profit doesn’t mean you can’t come back. You will be able to buy back the NFTs during the next bear cycle.
-- It may sound counterintuitive but selling a Degods at 40 or 50 during their pump was a great decision if it was a significant part of the holder portfolio. It secured gains and didn’t bet on the risky scenario that it would go higher.
-- Use a different wallet than your holdings when minting.
-- Keep a significant percentage of your wallet in sols.
-
-Data
-
-
-**Do your own research**
-
-- Before investing in a collection you should check the collection website, Twitter and Discord
-- Bad art, poor website, unactive twitters are bad signals
-- Discord with low activity or with floor price discussions only are bad signals
-- Services attached to the NFT like software or goodies are good signals
-- Active communication from the team and good vibe from the community are good signals
-- A high proportion of listing is a bad signal
-- Absence of volume may be a bad signal (lack of activity).
-- Small collections can have low activity but in that case, it’s preferable they have a low listing rate.
-- Getting in early into a collection doesn’t mean getting in super early. For instance, you could have entered confidently in the Famous Foxes when they were selling at 10 sols. At that time they already proved their value. It would have been better to spot them earlier but 10 was still a good entry point.
-
-**Alpha calls**
-
-- Alphas are signals, they don’t guarantee anything.
-- Most of them are wrong.
-- They are emitted by people who follows the market.
-- But some alpha callers are tempted to dump their bag taking advantage of their influence.
-- Alpha callers brag loud when they win, they don’t say anything when they miss their targets.
-- See alpha calls as market data not advice.
+  <h1>Solana DAO tools</h1>
+  <p>
+    To build a strong community for your NFT collection, the Solana eco-system
+    proposes a wide-range of tools. This guide aims at listing the must-have
+    software required to delight and serve your holders.
+  </p>
+  <h2 id="discord-access-and-role-management-matrica">
+    Discord access and role management: Matrica
+  </h2>
+  <p>
+    Like any DAO, you probably want to give restricted access to holders
+    verifying certain conditions. For that you need to give specific roles only
+    to holders of your NFT. Another good idea is to reward multiple holders with
+    specific badges. Matrica can handle both for you. In some way it’s the
+    gatekeeper of your Discord.
+  </p>
+  <p>
+    Additionally it comes with a sales bot allowing to have a feed of every
+    sales in your Discord.
+  </p>
+  <p>Cost: 5 sol a month or burning two of their NFTs for a lifetime usage.</p>
+  <p><a href="https://matrica.io/">Matrica</a></p>
+  <h2 id="whitelist-and-giveaway-management-subber">
+    Whitelist and giveaway management: Subber
+  </h2>
+  <p>
+    To enlighten your community, it’s common to offer whitelist spots or
+    presales of upcoming collections. Managing, the winning conditions, the
+    winners and the participants can be tedious. Subber proposes to handle all
+    the heavy stuff for you and integrates seamlessly with your Discord server.
+    It comes too with social features between all the community using Subber.
+  </p>
+  <p>Cost: free</p>
+  <p>
+    <a href="https://www.subber.xyz/"
+      >Quality Web3 experiences for NFT communities. · Subber</a
+    >
+  </p>
+  <h2 id="pre-sales-and-merchandising-payment-helio">
+    Pre-sales and merchandising payment: Helio
+  </h2>
+  <p>
+    If you want to run a pre-sale session or needs to sell anything to your
+    community while keeping the web3 vibe, you will have to handle payment
+    through Solana wallets. Online payment can be very tricky. Fortunately, the
+    Helio platform can manage everything for you. It will allow you to set up
+    online form where your users can pay with any token and then have access to
+    their goods.
+  </p>
+  <p>
+    Cost: 2% fees + holding a NFT from their collection (or paying 50$/month)
+  </p>
+  <p><a href="https://helions.hel.io/">Helions NFT Collection</a></p>
+  <p><a href="https://www.hel.io/"></a></p>
+  <h2 id="governance-management-hadeswap">Governance management: Hadeswap</h2>
+  <p>
+    To run the important votes for the proposals of your DAO on chain it’s
+    better to use a proven solution. Hadeswap, aside its AMM, proposes the
+    necessary tooling to submit a proposal and run votes for. It allows to show
+    the community possessions too.
+  </p>
+  <p>Cost: free</p>
+  <p><a href="https://www.hadeswap.com/">Hadeswap - NFT Staking/Bonding</a></p>
+  <h2 id="community-engagement-utility-ape">
+    Community Engagement: Utility Ape
+  </h2>
+  <p>
+    To motivate your community to advertise your collection, you can reward them
+    with your collection tokens when they retweet, like or comment your
+    publications. The same way, you may want them to comment popular tweets
+    meaningful for your collection. It’s not something easy to manage unless you
+    use a tool like Utility Ape. They provide you with efficient Dashboards to
+    deal with community engagement and connect directly with Discord to allow
+    rewarding their Twitter actions through Discord..
+  </p>
+  <p>
+    Alternatives are popping up like AlphaPharaos or Mindfolk Connect but
+    currently Utility Ape seems to be the market leader.
+  </p>
+  <p>Cost: Between 60$/month and 300$/month depending on the Discord size.</p>
+  <p><a href="https://main.utilityape.com/">Utility APE</a></p>
+  <h2 id="crypto-and-nft-news-syndicate-network">
+    Crypto and NFT news: Syndicate Network
+  </h2>
+  <p>
+    Another way to enlighten your community is to provide qualitative news every
+    day right into your Discord. Syndicate Network does research everyday to
+    provide your holders with the latest actuality.
+  </p>
+  <p>Cost: free (sponsored content upcoming)</p>
+  <p><a href="https://www.syndicatenetwork.io/">Syndicate</a></p>
+  <h2 id="funds-management-squads">Funds management: Squads</h2>
+  <p>
+    Another big question is: how to manage the funds collected by your DAO? One
+    thing to build more trust is to have a wallet managed by several persons: a
+    multi-sig wallet that requires the approval of several persons to confirm a
+    transaction. Squads manages this for you and provides many services to
+    diversify your fund investments: tokens buying, NFTs, validator staking, and
+    more. No more headache for the fund governance!
+  </p>
+  <p>Cost: unknown</p>
+  <p><a href="https://squads.so/">Squads</a></p>
+  <h2 id="-automatic-activity-mee6-">
+    <strong>Automatic activity: MEE6</strong>
+  </h2>
+  <p>
+    Last but not least, a tool massively used by any Discord community, the MEE6
+    bot. It allows you to setup automatic actions like welcoming new users or
+    creating reaction roles. It tracks for you the members activity and give
+    them levels related to their activity.
+  </p>
+  <p>Cost: 40$ month</p>
+  <p><a href="https://mee6.xyz/">Discord Bot | MEE6</a></p>
+  <p>
+    That’s it, I hope you enjoyed and discovered new tools. Please let me know
+    if you have any suggestions!
+  </p>
 </template>

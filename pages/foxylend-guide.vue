@@ -12,23 +12,33 @@
 
 <h2>Borrowing</h2>
 
+<p>
 Borrowing may makes you feel like you are in a needy situation and that it could turn against you. With Foxylend that’s not the case. You pay upfront a fox for a mission and that’s it: there is no hidden cost. The only question you have to answer before borrowing a fox is: is it worth to do it?
+</p>
 
 <h3>Evaluate fame rewards</h3>
 
+<p>
 The answer is not that simple, because it’s mainly tied to how much you value fame points. Basically a mission rewards you with chest and fame points. To enter into a mission, sometimes you miss elements like a second fox or simply a fox. So the parameters you have to take into account before renting a fox is to consider from where you start and what you will obtain with this mission. In other words you have to evaluate how much extra fames and chests you will get.
+</p>
 
 <h3>Look for x2 missions</h3>
 
+<p>
 The best time to borrow is for a x2 mission, because the borrowing will give you more chests and more fame to your fox. x1 missions can be interesting too, but the benefit will in chests only.
+</p>
 
 <h3>Double check your borrowing</h3>
 
+<p>
 You have to really think before doing a borrow because it cannot be canceled. So first make sure you are borrowing the right fox for your mission. Things can go wrong especially when there are missions where two different traits are needed. Some foxes will appear as eligible while you already have their traits.
+</p>
 
 <h3>Do the maths</h3>
 
+<p>
 Now everything is clear, to help you with this decision, I built a table showing what you will obtain depending from where you start. To build this table, I made the following assumptions (please adapt the number depending on their market value):
+</p>
 
 <ul class="list-disc ml-4 mt-2 mb-2">
   <li>1 chest costs 0.15 sols (average price on FFF token market)</li>
@@ -66,16 +76,93 @@ Be cautious with rewards:
 
 
 <p>
-| Mission Requirements | Initial inventory | Inventory lend | Extra Gain | Equivalent in sols | Equivalent in foxy | Rough max borrowing price |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2 fox or tff, 1 den | 1 fox, 1den | 1 fox | 14k fame + 8 chests | 2,1 + 1,2 | 16500 | 15000 |
-| 2 fox or tff, 1 den | 1 fox, 1den | 1 tff | 14k fame + 5 chests | 2,1+ 0,75 | 14250 | 13000 |
-| 2 fox or tff, 1 den | 1 tff, 1 den | 1 fox | 2.5k fame + 5 chests | 0,3 + 0,75 | 5250 | 4500 |
-| 2 fox or tff, 1 den  | 1 tff, 1 den | 1 tff | 2.5k fame + 2 chests | 0,3 + 0,3 | 3000 | 2500 |
-| 2 fox or tff | 1 fox | 1 fox | 12k fame + 8 chests | 1,8 + 1,2 | 15000 | 14000 |
-| 2 fox or tff | 1 fox | 1 tff | 12k fame + 5 chests | 1,8 + 0,75 | 12750 | 12000 |
-| 2 fox or tff | 1 tff | 1 fox | 2.5k fame + 5 chests | 0,3 + 0,75 | 5250 | 4500 |
-| 2 fox or tff | 1 tff | 1 tff | 2.5k fame + 2 chests | 0,3 + 0,3 | 3000 | 2500 |
+<table>
+<thead>
+<tr>
+<th>Mission Requirements</th>
+<th>Initial inventory</th>
+<th>Inventory lend</th>
+<th>Extra Gain</th>
+<th>Equivalent in sols</th>
+<th>Equivalent in foxy</th>
+<th>Rough max borrowing price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 fox, 1den</td>
+<td>1 fox</td>
+<td>14k fame + 8 chests</td>
+<td>2,1 + 1,2</td>
+<td>16500</td>
+<td>15000</td>
+</tr>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 fox, 1den</td>
+<td>1 tff</td>
+<td>14k fame + 5 chests</td>
+<td>2,1+ 0,75</td>
+<td>14250</td>
+<td>13000</td>
+</tr>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 tff, 1 den</td>
+<td>1 fox</td>
+<td>2.5k fame + 5 chests</td>
+<td>0,3 + 0,75</td>
+<td>5250</td>
+<td>4500</td>
+</tr>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 tff, 1 den</td>
+<td>1 tff</td>
+<td>2.5k fame + 2 chests</td>
+<td>0,3 + 0,3</td>
+<td>3000</td>
+<td>2500</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>1 fox</td>
+<td>1 fox</td>
+<td>12k fame + 8 chests</td>
+<td>1,8 + 1,2</td>
+<td>15000</td>
+<td>14000</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>1 fox</td>
+<td>1 tff</td>
+<td>12k fame + 5 chests</td>
+<td>1,8 + 0,75</td>
+<td>12750</td>
+<td>12000</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>1 tff</td>
+<td>1 fox</td>
+<td>2.5k fame + 5 chests</td>
+<td>0,3 + 0,75</td>
+<td>5250</td>
+<td>4500</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>1 tff</td>
+<td>1 tff</td>
+<td>2.5k fame + 2 chests</td>
+<td>0,3 + 0,3</td>
+<td>3000</td>
+<td>2500</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 <p>
@@ -83,17 +170,102 @@ Be cautious with rewards:
 </p>
 
 <p>
-| Mission Requirements | Initial inventory | Inventory lend | Extra Gain | Equivalent in sols | Equivalent in foxy | Rough max borrowing price |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2 fox or tff, 1 den | 1 den | 2 fox | 8 chests | 1,2 | 6000 | 2500 each |
-| 2 fox or tff, 1 den | 1 den | 1 fox + 1 tff | 5 chests | 0,75 | 3750 | 3200 for both |
-| 2 fox or tff, 1 den | 1 den | 2 tff | 2 chests | 0,3 | 1500 | 500 each |
-| 1 fox or tff, 1 den | 1 den | 1 fox | 4 chests | 0,6 | 3000 | 2500 |
-| 1 fox or tff, 1 den | 1 den  | 1 tff | 1 chest | 0,15 | 750 | 500 |
-| 2 fox or tff | 0 | 2 fox | 8 chests | 1,2 | 6000 | 2500 each |
-| 2 fox or tff | 0 | 2 tff | 2 chests | 0,3 | 1500 | 600 each |
-| 1 fox | 0 | 1 fox | 4 chests | 0,6 | 3000 | 2500 |
-| 1 tff | 0 | 1 tff | 1 chests | 0,15 | 750 | 500 |
+<table>
+<thead>
+<tr>
+<th>Mission Requirements</th>
+<th>Initial inventory</th>
+<th>Inventory lend</th>
+<th>Extra Gain</th>
+<th>Equivalent in sols</th>
+<th>Equivalent in foxy</th>
+<th>Rough max borrowing price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 den</td>
+<td>2 fox</td>
+<td>8 chests</td>
+<td>1,2</td>
+<td>6000</td>
+<td>2500 each</td>
+</tr>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 den</td>
+<td>1 fox + 1 tff</td>
+<td>5 chests</td>
+<td>0,75</td>
+<td>3750</td>
+<td>3200 for both</td>
+</tr>
+<tr>
+<td>2 fox or tff, 1 den</td>
+<td>1 den</td>
+<td>2 tff</td>
+<td>2 chests</td>
+<td>0,3</td>
+<td>1500</td>
+<td>500 each</td>
+</tr>
+<tr>
+<td>1 fox or tff, 1 den</td>
+<td>1 den</td>
+<td>1 fox</td>
+<td>4 chests</td>
+<td>0,6</td>
+<td>3000</td>
+<td>2500</td>
+</tr>
+<tr>
+<td>1 fox or tff, 1 den</td>
+<td>1 den</td>
+<td>1 tff</td>
+<td>1 chest</td>
+<td>0,15</td>
+<td>750</td>
+<td>500</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>0</td>
+<td>2 fox</td>
+<td>8 chests</td>
+<td>1,2</td>
+<td>6000</td>
+<td>2500 each</td>
+</tr>
+<tr>
+<td>2 fox or tff</td>
+<td>0</td>
+<td>2 tff</td>
+<td>2 chests</td>
+<td>0,3</td>
+<td>1500</td>
+<td>600 each</td>
+</tr>
+<tr>
+<td>1 fox</td>
+<td>0</td>
+<td>1 fox</td>
+<td>4 chests</td>
+<td>0,6</td>
+<td>3000</td>
+<td>2500</td>
+</tr>
+<tr>
+<td>1 tff</td>
+<td>0</td>
+<td>1 tff</td>
+<td>1 chests</td>
+<td>0,15</td>
+<td>750</td>
+<td>500</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 

@@ -1,82 +1,121 @@
 <template>
-**Basics**
-
-- To become a good trader you have to practice and make mistakes (you will lose money during the process).
-- It requires much more patience than you think. Many collections took months to take off.
-- You have to understand the market to take good positions. It requires to spend time on marketplaces and on collection Twitters and Discords.
-- Day trading is a full-time job, so if it’s not your main occupation, don’t look for quick wins
-- It’s a very irrational market where hype plays a lot in the floor price. See collections as fashion brands. You cannot ignore the hype effect in your investments.
-
-
-**Listing**
-
-- Identify listing walls and list your NFTs slightly below to ensure its selling.
-- If the collection is dumping you have to list significantly below the floor to sell quickly.
-- If the collection is pumping or stable, list it around the floor.
-- Clean NFTs tend be sold faster but not at a higher price.
-- Listing is great for settling your selling strategy. But it will prevent you from getting perks.
-- If you are holding on the long term it’s better to not list.
-
-**Bidding**
-
-- Look for rare pieces where the owner decreases frequently the price. Bid with a 10-20% discount or slightly above the floor price. They will probably accept.
-- Place a reasonable collection bid on projects you like. Many people need liquidity fast, they will enjoy to accept your bid
-- Be aware that your liquidity is not available quickly when you bid (you have to remove it from the bid to access it again).
-
-
-  **Holding**
-
-- Staking makes sense only if you wants to keep the NFTs on a long term. If that’s not the case, don’t let it impact your investment strategy.
-- Many major collections have a sub collection. It’s better to buy the subs since you can split the sell more easily.
-- It’s better to buy several NFTs from a collection and sell them gradually.
-- When you do gradual sells, keep a few NFT from your conviction play in your long-term inventory.
-- Or buy a few high conviction NFTs when you make big wins.
-- Bitcoin took 10 years to reach 60k, so it’s not absurd to hold some NFTs a few years.
-
-
-**Taking profits**
-
-- X2 or X3 are already very good profits.
-- Every time you are in green, be satisfied. Don’t look back.
-- x1.2 can already be very good if the initial investment is heavy.
-- x1.2 is better than a negative move.
-- Take some profit in FIAT, it’s good to get rewards from time to time
-
-**Risk management**
-
-- If a NFT makes a significant pump a day or two after you buy it, sell it. Most of the time it will dump the following days (and buy it again if you believe in it).
-- Sell when it pumps. During bull runs you should be more and more liquid.
-- Hold when it dumps. Or cut your loss at bad price to be sure the NFT is sold if you consider that the collection is dead. Selling during dumps is harder.
-- Selling requires collection activity. Before buying from a collection, consider this because it can make your expected sale much slower.
-- During bear cycles, use your liquidity gradually to buy underpriced collections. It’s normal to be less and less liquid over time.
-- During the bear if something goes up, sell at x2 or x3, don’t wait for better performances.
-- Most NFTs success are based on good marketing from the team. So if you are already heavily in profit, consider to sell a part of them. The marketing can fade quickly.
-- Leaving a collection while making profit doesn’t mean you can’t come back. You will be able to buy back the NFTs during the next bear cycle.
-- It may sound counterintuitive but selling a Degods at 40 or 50 during their pump was a great decision if it was a significant part of the holder portfolio. It secured gains and didn’t bet on the risky scenario that it would go higher.
-- Use a different wallet than your holdings when minting.
-- Keep a significant percentage of your wallet in sols.
-
-Data
-
-
-**Do your own research**
-
-- Before investing in a collection you should check the collection website, Twitter and Discord
-- Bad art, poor website, unactive twitters are bad signals
-- Discord with low activity or with floor price discussions only are bad signals
-- Services attached to the NFT like software or goodies are good signals
-- Active communication from the team and good vibe from the community are good signals
-- A high proportion of listing is a bad signal
-- Absence of volume may be a bad signal (lack of activity).
-- Small collections can have low activity but in that case, it’s preferable they have a low listing rate.
-- Getting in early into a collection doesn’t mean getting in super early. For instance, you could have entered confidently in the Famous Foxes when they were selling at 10 sols. At that time they already proved their value. It would have been better to spot them earlier but 10 was still a good entry point.
-
-**Alpha calls**
-
-- Alphas are signals, they don’t guarantee anything.
-- Most of them are wrong.
-- They are emitted by people who follows the market.
-- But some alpha callers are tempted to dump their bag taking advantage of their influence.
-- Alpha callers brag loud when they win, they don’t say anything when they miss their targets.
-- See alpha calls as market data not advice.
+  <p>
+    The Solana eco-system provides many tools to help you trading your NFTs.
+    It’s a bit hard to find your way into it. Fortunately, I curated for you the
+    ones that are the most useful to me. It will give you a quick start for your
+    journey in the Solana space.
+  </p>
+  <h2 id="trading">Trading</h2>
+  <p>
+    The best tool for NFT trading is by far
+    <a href="http://Tensor.trade">Tensor.trade</a>. It’s a very fast app that
+    provides you with many features to make proper deals:
+  </p>
+  <ul>
+    <li>
+      Fast browsing of daily top 24h volume collections via filters and clear
+      listing.
+    </li>
+    <li>
+      A system to explore collection listings and order books visually or via
+      simple tables.
+    </li>
+    <li>Listing capabilities (instant-trade or like in any marketplaces)</li>
+  </ul>
+  <p>
+    A good alternative is <a href="http://solsniper.xyz">solsniper.xyz</a>, it’s
+    a little bit less geeky but it has less features too.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca88c05b-9b68-4fa8-ae22-632668c69685/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h2 id="marketplaces">Marketplaces</h2>
+  <p>
+    Magiceden is the default marketplace to trade all your NFTs,. But there are
+    lighter alternatives you can use like
+    <a href="https://coralcube.io/">https://coralcube.io/</a> or
+    <a href="https://hyperspace.xyz/">https://hyperspace.xyz/</a>.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ec70422-c3af-4cd5-bd77-5f01a3db23bd/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h2 id="swapping">Swapping</h2>
+  <p>
+    It’s common that you want to trade a NFT with someone you met on Discord.
+    With a raw wallet there is no safe way to do this. But Foxy Swap can secure
+    this for a few $FOXY by acting as a middleman. You just select the NFT you
+    want to trade from a given wallet. Then you can propose your own NFT for
+    trading. You will be sure that the trade will happen as you set it.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab5085fb-0838-4307-bf80-3584d5d34382/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h2 id="token-marketplace">Token marketplace</h2>
+  <p>
+    Many collections propose rewards as tokens. These tokens can have many
+    different utilities and they are provided to collection holders through
+    staking or events. But, an alternate way to get them is to trade them on the
+    Famous foxes token market:
+    <a href="https://famousfoxes.com/tokenmarket"
+      >https://famousfoxes.com/tokenmarket</a
+    >.
+  </p>
+  <p>
+    It acts like any decentralize exchange, you can set orders or buy directly
+    from listed orders.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06bda1c3-34ea-40ad-bfec-2355843a9aca/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h2 id="statistics">Statistics</h2>
+  <p>
+    To get an overview of the main statistics of a collections such a mint date,
+    number of holders, Twitter followers, Discord members and volumes,
+    <a href="https://moon.ly/">moon.ly</a> is the place for it. It’s easy to
+    find the collection you are interested in and dashboards are pretty clear.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba45ff24-0d7a-4e0c-8650-2f2e096bf98a/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <h2 id="lending"><strong>Lending</strong></h2>
+  <p>
+    You may need some sols for a spot opportunity but they are stuck in a NFT
+    you want to hold. Some platforms allow you to some sols and put your NFT as
+    collateral. It’s quite risky because the interest rate is high and a price
+    drop of your NFT can make you lose it. Still, it can be handy from time to
+    time. <a href="https://sharky.fi/">https://sharky.fi/</a> is the most
+    popular platform for lending or borrowing.
+  </p>
+  <p>
+    There is new another lending platform named Citrus: <a
+      href="https://citrus.famousfoxes.com/lend"
+      >https://citrus.famousfoxes.com/lend</a
+    >. <a href="https://app.frakt.xyz/">https://app.frakt.xyz/</a> is another
+    option too.
+  </p>
+  <p>
+    <img
+      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61018c4c-e5ff-4c31-8120-5a835c035369/Untitled.png"
+      alt="Untitled"
+    />
+  </p>
+  <p>
+    That’s it, I hope you enjoyed and discovered new tools. Please let me know
+    if you have any suggestions!
+  </p>
 </template>

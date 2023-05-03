@@ -28,8 +28,8 @@
       </p>
       <p>
         By understanding how works the available tools and applying best
-        practices place. you will increase your chance of success and make the
-        NFT ecosystem a better
+        practices, you will increase your chance of success and make the
+        NFT ecosystem a better place.
       </p>
     </div>
   </section>

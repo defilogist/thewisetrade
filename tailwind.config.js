@@ -14,6 +14,8 @@ module.exports = {
       beige: '#E1D7C6',
       grey: '#ECE8DD',
       paper: '#F8F4EA',
+      paperlight: '#FDFAF3',
+      paperlighter: '#FFFDF8',
       greyblue: '#AEBDCA',
       darkblue: '#7895B2'
     },

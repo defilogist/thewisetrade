@@ -1,4 +1,11 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/tensor-trade-guide.png"
+    />
+  </div>
+
   <h1>Tensor Quickstart Guide</h1>
   <p>
     After trading for a while your NFTs on Magic Eden, you will notice that

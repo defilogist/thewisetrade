@@ -14,12 +14,12 @@ p {
 }
 
 h1 {
-  @apply text-3xl mt-8 mb-6 font-bold text-center;
+  @apply text-3xl mt-7 mb-6 font-bold text-center;
 }
 
 h2 {
-  font-size: 1.2em;
-  @apply mb-4 mt-8 font-bold;
+  font-size: 1.4em;
+  @apply mb-4 mt-12 font-bold;
 }
 
 h3 {
@@ -27,10 +27,19 @@ h3 {
   @apply mb-2 mt-6 font-bold;
 }
 
+ul {
+  @apply list-disc ml-4 mt-2 mb-2;
+}
+
+table th,
+table td {
+  @apply border p-2;
+}
+
 .guide-link {
   height: 260px;
   padding: 1em .4em 1em .4em;
-  @apply font-bold shadow rounded-md border text-center bg-paperlight;
+  @apply font-bold shadow rounded-xl border text-center bg-paperlight;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
@@ -49,8 +58,4 @@ h3 {
   max-width: 150px;
   margin: auto;
   margin-bottom: .5em;
-}
-
-ul {
-    @apply list-disc ml-4 mt-2 mb-2;
 }

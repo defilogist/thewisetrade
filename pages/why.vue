@@ -1,9 +1,6 @@
 <template>
   <section class="">
     <div>
-      <div>
-        <img class="flex-1 pt-8" src="~/assets/images/lion.png" width="200" />
-      </div>
 
       <h1>Why</h1>
 

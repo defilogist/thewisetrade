@@ -1,4 +1,11 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/trading-guide-1.png"
+    />
+  </div>
+
   <h1>NFT Trading guide basics</h1>
 
   <h2>Fundamentals</h2>

@@ -1,14 +1,22 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/amm-trading-guide.png"
+    />
+  </div>
+  <h1>AMM Trading Guide</h1>
   <p>
     AMM stands for Automated Market Maker. AMMs are widely used in crypto by
-    decentralized exchanges to allow token swapping. Since a few months, we have
-    seen marketplaces and apps allowing a similar scheme for NFTs.
+    decentralized exchanges to allow token swapping. Now the concept is adopted
+    by NFT marketplaces and apps. They allow a similar scheme for NFTs where
+    you can go in and out easily.
   </p>
   <p>
     The main issue of NFT collections is that they lack of liquidity, they are
     seen as illiquid assets because they are hard to sell. By providing sols and
     bunch of NFTs for each collection, AMMs allow anyone get in and out of a
-    collection quickly.
+    collection without waiting for a seller.
   </p>
   <p>
     To accumulate the necessary funds and NFTs, AMM apps require external
@@ -132,8 +140,8 @@
   <p>The linear progression is pretty straightforward to understand</p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f08bd46e-6555-4329-814b-4fce7f461eaf/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/amm-example-1.png"
+      alt="Linear progression pictured"
     />
   </p>
   <p><em>Percentage</em></p>
@@ -145,11 +153,11 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a1eafe6-689d-4813-9255-1b66691e6dd7/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/amm-example-2.png"
+      alt="Percentage progression pictured"
     />
   </p>
-  <h2 id="how-to-take-advantage-of-it">How to take advantage of it</h2>
+  <h2 id="how-to-take-advantage-of-it">How to take advantage of AMMs</h2>
   <p><strong>Put a decent amount of liquidity</strong></p>
   <p>
     First and foremost to use AMMs, you need a good amount of sols compared to
@@ -272,3 +280,14 @@
     on a regular basis!
   </p>
 </template>
+
+<script setup>
+useHead({
+  title: 'The Wise Trade | AMM Trading Guide',
+  meta: [
+    {
+      name: 'description',
+      content: 'Explaination about what are AMMs and how to take advantage of them' }
+  ]
+})
+</script>

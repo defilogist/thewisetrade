@@ -1,4 +1,13 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/nft-tools-guide.png"
+    />
+  </div>
+
+  <h1>Solana NFT Tools</h1>
+
   <p>
     The Solana eco-system provides many tools to help you trading your NFTs.
     It’s a bit hard to find your way into it. Fortunately, I curated for you the

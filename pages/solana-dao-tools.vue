@@ -1,4 +1,11 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/nft-dao-tools-guide.png"
+    />
+  </div>
+
   <h1>Solana DAO tools</h1>
   <p>
     To build a strong community for your NFT collection, the Solana eco-system

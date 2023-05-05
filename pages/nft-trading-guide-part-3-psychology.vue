@@ -1,4 +1,13 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/trading-guide-3.png"
+    />
+  </div>
+
+  <h1>NFT Trading guide - Psychology</h1>
+
   <h2>Patience</h2>
 
   <ul>

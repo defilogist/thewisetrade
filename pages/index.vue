@@ -1,11 +1,17 @@
 <template>
   <div class="container max-w-screen-md mx-auto">
-    <h1 class="text-4xl font-bold text-blue pt-6 mb-2 text-center">
-      The Wise Trade
-    </h1>
-    <h2 class="mt-0 text-lg italic text-center">
-      Tips and guides for efficient Solana NFT trading
-    </h2>
+
+    <div class="flex text-left m-auto header">
+      <img class="pt-8 mr-4" src="~/assets/images/lion.png" />
+      <div class="flex-1">
+        <h1 class="text-4xl font-bold pt-6 mb-2">
+          The Wise Trade
+        </h1>
+        <h2 class="mt-0 text-lg italic">
+          Tips and guides for Solana NFT trading
+        </h2>
+      </div>
+    </div>
     <h1 class="text-3xl font-bold mb-8 mt-12">Trading Guides</h1>
     <div class="grid grid-cols-4 gap-4">
       <NuxtLink class="guide-link" to="nft-trading-guide-part-1-basics">
@@ -97,3 +103,29 @@
     </div>
   </div>
 </template>
+
+<script setup>
+useHead({
+  title: 'The Wise Trade | NFT Trading Education',
+  meta: [
+    {
+      name: 'description',
+      content: 'Guides and tips for Solana NFT trading, avoid mistakes and increase your chances of success' }
+  ]
+})
+</script>
+
+<style lang="scss">
+.header {
+  max-width: 500px;
+  margin-bottom: 4em;
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    width: 100px;
+  }
+}
+</style>

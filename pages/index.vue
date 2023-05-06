@@ -13,7 +13,7 @@
       </div>
     </div>
     <h1 class="text-3xl font-bold mb-8 mt-12">Trading Guides</h1>
-    <div class="grid grid-cols-4 gap-4">
+    <div class="grid md:grid-cols-4 gap-4">
       <NuxtLink class="guide-link" to="nft-trading-guide-part-1-basics">
         <img
           class="mb-2"
@@ -55,7 +55,7 @@
     </div>
 
     <h1 class="text-3xl font-bold mb-8 mt-12">Tool Guides</h1>
-    <div class="grid grid-cols-4 gap-4">
+    <div class="grid md:grid-cols-4 gap-4">
       <NuxtLink class="guide-link" to="solana-nft-tools">
         <img
           class="mb-2"
@@ -88,7 +88,7 @@
 
     <h1 class="text-3xl font-bold mb-8 mt-12">Tiers list</h1>
 
-    <div class="grid grid-cols-4 gap-4">
+    <div class="grid md:grid-cols-4 gap-4">
       <a
         class="guide-link"
         target="_blank"
@@ -126,6 +126,7 @@ useHead({
 
   img {
     width: 100px;
+    height: content-fit;
   }
 }
 </style>

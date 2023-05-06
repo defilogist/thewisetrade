@@ -37,10 +37,10 @@ table td {
 }
 
 .guide-link {
-  height: 260px;
-  padding: 1em .4em 1em .4em;
   @apply font-bold shadow rounded-xl border text-center bg-paperlight;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  height: 260px;
+  padding: 1em .4em 1em .4em;
 }
 
 .guide-link:hover {

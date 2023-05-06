@@ -126,7 +126,7 @@ useHead({
 
   img {
     width: 100px;
-    height: content-fit;
+    height: fit-content;
   }
 }
 </style>

@@ -27,7 +27,7 @@
     sales in your Discord.
   </p>
   <p>Cost: 5 sol a month or burning two of their NFTs for a lifetime usage.</p>
-  <p><a href="https://matrica.io/">Matrica</a></p>
+  <p><a href="https://matrica.io/">www.matrica.io</a></p>
   <h2 id="whitelist-and-giveaway-management-subber">
     Whitelist and giveaway management: Subber
   </h2>
@@ -40,9 +40,7 @@
   </p>
   <p>Cost: free</p>
   <p>
-    <a href="https://www.subber.xyz/"
-      >Quality Web3 experiences for NFT communities. · Subber</a
-    >
+    <a href="https://www.subber.xyz/">www.subber.xyz</a>
   </p>
   <h2 id="pre-sales-and-merchandising-payment-helio">
     Pre-sales and merchandising payment: Helio
@@ -58,8 +56,8 @@
   <p>
     Cost: 2% fees + holding a NFT from their collection (or paying 50$/month)
   </p>
-  <p><a href="https://helions.hel.io/">Helions NFT Collection</a></p>
-  <p><a href="https://www.hel.io/"></a></p>
+  <p><a href="https://helions.hel.io/">helions.hel.io</a></p>
+  <p><a href="https://www.hel.io/">www.heli.io</a></p>
   <h2 id="governance-management-hadeswap">Governance management: Hadeswap</h2>
   <p>
     To run the important votes for the proposals of your DAO on chain it’s
@@ -68,9 +66,9 @@
     the community possessions too.
   </p>
   <p>Cost: free</p>
-  <p><a href="https://www.hadeswap.com/">Hadeswap - NFT Staking/Bonding</a></p>
+  <p><a href="https://www.hadeswap.com/">www.hadeswap.com</a></p>
   <h2 id="community-engagement-utility-ape">
-    Community Engagement: Utility Ape
+    Community engagement: Utility Ape
   </h2>
   <p>
     To motivate your community to advertise your collection, you can reward them
@@ -86,7 +84,7 @@
     currently Utility Ape seems to be the market leader.
   </p>
   <p>Cost: Between 60$/month and 300$/month depending on the Discord size.</p>
-  <p><a href="https://main.utilityape.com/">Utility APE</a></p>
+  <p><a href="https://main.utilityape.com/">main.utilityape.com</a></p>
   <h2 id="crypto-and-nft-news-syndicate-network">
     Crypto and NFT news: Syndicate Network
   </h2>
@@ -96,7 +94,7 @@
     provide your holders with the latest actuality.
   </p>
   <p>Cost: free (sponsored content upcoming)</p>
-  <p><a href="https://www.syndicatenetwork.io/">Syndicate</a></p>
+  <p><a href="https://www.syndicatenetwork.io/">www.syndicatenetwork.io</a></p>
   <h2 id="funds-management-squads">Funds management: Squads</h2>
   <p>
     Another big question is: how to manage the funds collected by your DAO? One
@@ -107,7 +105,7 @@
     more. No more headache for the fund governance!
   </p>
   <p>Cost: unknown</p>
-  <p><a href="https://squads.so/">Squads</a></p>
+  <p><a href="https://squads.so/">www.squads.so</a></p>
   <h2 id="-automatic-activity-mee6-">
     <strong>Automatic activity: MEE6</strong>
   </h2>
@@ -118,7 +116,7 @@
     them levels related to their activity.
   </p>
   <p>Cost: 40$ month</p>
-  <p><a href="https://mee6.xyz/">Discord Bot | MEE6</a></p>
+  <p><a href="https://mee6.xyz/">www.mee6.xyz</a></p>
   <p>
     That’s it, I hope you enjoyed and discovered new tools. Please let me know
     if you have any suggestions!

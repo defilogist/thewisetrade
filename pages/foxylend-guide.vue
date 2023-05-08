@@ -49,15 +49,6 @@ Now everything is clear, to help you with this decision, I built a table showing
 </ul>
 
 <p>
-<em>NB: Here I consider we sell the chests but you could for sure keep them to
-open and hope for higher rewards but it comes with an increased risk. The fame
-points cannot be sold but it represents the extra cost if you wanted to buy
-them.</em>
-</p>
-
-<h3>Mission rewards borrowing and borrowing investment</h3>
-
-<p>
 Be cautious with rewards:
 </p>
 
@@ -67,11 +58,16 @@ Be cautious with rewards:
 </ul>
 
 <p>
-  <em>Borrowing that bring extra rewards</em>
+<em>NB: Here I consider we sell the chests but you could for sure keep them to
+open and hope for higher rewards but it comes with an increased risk. The fame
+points cannot be sold but it represents the extra cost if you wanted to buy
+them.</em>
 </p>
 
+<h3>Borrowing that bring extra rewards</h3>
+
 <p>
-<em>!!! The gain evaluation is based on fame, so it should be taken cautiously !!!</em>
+  <em>!!! The gain evaluation is based on fame, so it should be taken cautiously !!!</em>
 </p>
 
 
@@ -165,9 +161,7 @@ Be cautious with rewards:
 </table>
 </p>
 
-<p>
-<em>Borrowing that don’t bring extra rewards</em>
-</p>
+<h3>Borrowing that don’t bring extra rewards</h3>
 
 <p>
 <table>
@@ -313,7 +307,7 @@ will punish you by renting it and removing it from the market.
 </p>
 
 
-<h1>Conclusion</h1>
+<h2>Conclusion</h2>
 
 <p>
 That’s it! As you understand, Foxylend can really improve your passive income.
@@ -328,3 +322,6 @@ glad to include them!
 </p>
 </section>
 </template>
+
+<style lang="scss">
+</style>

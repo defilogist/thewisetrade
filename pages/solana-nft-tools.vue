@@ -37,21 +37,21 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca88c05b-9b68-4fa8-ae22-632668c69685/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/trading.png"
+      alt="Tensor Trade screenshot"
     />
   </p>
   <h2 id="marketplaces">Marketplaces</h2>
   <p>
-    Magiceden is the default marketplace to trade all your NFTs,. But there are
-    lighter alternatives you can use like
-    <a href="https://coralcube.io/">https://coralcube.io/</a> or
-    <a href="https://hyperspace.xyz/">https://hyperspace.xyz/</a>.
+    <a href="https://magiceden.io/">Magiceden</a> is the default marketplace to
+trade all your NFTs,. But there are lighter alternatives you can use like
+    <a href="https://coralcube.io/">coralcube.io</a> or
+    <a href="https://hyperspace.xyz/">hyperspace.xyz</a>.
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ec70422-c3af-4cd5-bd77-5f01a3db23bd/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/marketplace.png"
+      alt="Coral Cube screenshot"
     />
   </p>
   <h2 id="swapping">Swapping</h2>
@@ -64,8 +64,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab5085fb-0838-4307-bf80-3584d5d34382/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/swapping.png"
+      alt="Foxy Swap screenshot"
     />
   </p>
   <h2 id="token-marketplace">Token marketplace</h2>
@@ -75,7 +75,7 @@
     staking or events. But, an alternate way to get them is to trade them on the
     Famous foxes token market:
     <a href="https://famousfoxes.com/tokenmarket"
-      >https://famousfoxes.com/tokenmarket</a
+      >famousfoxes.com/tokenmarket</a
     >.
   </p>
   <p>
@@ -84,8 +84,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06bda1c3-34ea-40ad-bfec-2355843a9aca/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tokenmarket.png"
+      alt="Tokenmarket screenshot"
     />
   </p>
   <h2 id="statistics">Statistics</h2>
@@ -97,8 +97,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba45ff24-0d7a-4e0c-8650-2f2e096bf98a/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/statistics.png"
+      alt="Statistics screenshot"
     />
   </p>
   <h2 id="lending"><strong>Lending</strong></h2>
@@ -107,20 +107,19 @@
     you want to hold. Some platforms allow you to some sols and put your NFT as
     collateral. It’s quite risky because the interest rate is high and a price
     drop of your NFT can make you lose it. Still, it can be handy from time to
-    time. <a href="https://sharky.fi/">https://sharky.fi/</a> is the most
+    time. <a href="https://sharky.fi/">sharky.fi</a> is the most
     popular platform for lending or borrowing.
   </p>
   <p>
-    There is new another lending platform named Citrus: <a
-      href="https://citrus.famousfoxes.com/lend"
-      >https://citrus.famousfoxes.com/lend</a
-    >. <a href="https://app.frakt.xyz/">https://app.frakt.xyz/</a> is another
-    option too.
+    There are alternative lending platform named Citrus (<a
+      href="https://citrus.famousfoxes.com"
+      >citrus.famousfoxes.com</a
+    >). and Frakt (<a href="https://app.frakt.xyz/">app.frakt.xyz</a>)
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61018c4c-e5ff-4c31-8120-5a835c035369/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/lending.png"
+      alt="Lending screenshot"
     />
   </p>
   <p>

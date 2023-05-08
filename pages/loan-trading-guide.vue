@@ -1,4 +1,11 @@
 <template>
+  <div class="text-center">
+    <img
+      class="m-auto"
+      src="~/assets/images/illustrations/loan-trading-guide.png"
+    />
+  </div>
+
   <h1>The Loan Trading Guide</h1>
 
   <p>

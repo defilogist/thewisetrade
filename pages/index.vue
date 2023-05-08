@@ -8,7 +8,7 @@
           The Wise Trade
         </h1>
         <h2 class="mt-0 text-lg italic">
-          Tips and guides for Solana NFT trading
+          Tips and guides for efficient NFT trading
         </h2>
       </div>
     </div>
@@ -106,7 +106,7 @@
 
 <script setup>
 useHead({
-  title: 'The Wise Trade | NFT Trading Education',
+  title: 'The Wise Trade | Tips and guides for efficient NFT trading ',
   meta: [
     {
       name: 'description',

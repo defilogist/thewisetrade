@@ -5,12 +5,6 @@
       <img class="" src="~/assets/images/lion.png" width="30" />
     </NuxtLink>
   </div>
-  <div class="mr-6 font-bold text-darkblue">
-    <NuxtLink to="/why">Why</NuxtLink>
-  </div>
-  <div class="mr-6 font-bold text-darkblue">
-    <NuxtLink to="/about">About</NuxtLink>
-  </div>
   <div class="flex-1">
   </div>
   <div class="">

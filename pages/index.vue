@@ -117,7 +117,7 @@ useHead({
 
 <style lang="scss">
 .header {
-  max-width: 500px;
+  max-width: 480px;
   margin-bottom: 4em;
 
   h1 {

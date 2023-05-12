@@ -19,7 +19,7 @@
       </p>
       <p>
         That’s why I wrote content to help everyone in the ecosystem to become
-        better at trading NFTs. The Wise NFT Trader is a compilation of guides
+        better at trading NFTs. The Wise Trade is a compilation of guides
         and tips that will help you to set up efficient investment strategies
         and avoid you the most common mistakes.
       </p>

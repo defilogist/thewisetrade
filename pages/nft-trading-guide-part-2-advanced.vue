@@ -147,19 +147,4 @@
       reveal. It’s probable, that you will be able to get in right after.
     </li>
   </ul>
-
-  <h2>Casino projects</h2>
-
-  <p>
-    Casinos are bad for many reasons. Even if they can unsure a quick flip, you
-    should avoid it because :
-  </p>
-
-  <ul>
-    <li>They drain wallets of Solana users and can destroy lives.</li>
-    <li>They don’t give a good image of the NFT market when newcomers come.</li>
-    <li>They don’t bring any value.</li>
-    <li>They rug often.</li>
-    <li>On the long term they mine the ecosystem.</li>
-  </ul>
 </template>

@@ -57,7 +57,10 @@ trade all your NFTs,. But there are lighter alternatives you can use like
   <h2 id="swapping">Swapping</h2>
   <p>
     It’s common that you want to trade a NFT with someone you met on Discord.
-    With a raw wallet there is no safe way to do this. But Foxy Swap can secure
+    With a raw wallet there is no safe way to do this. But
+    Foxy Swap
+    (<a href="https://famousfoxes.com/foxyswap">famousfoxes.com/foxyswap</a>)
+    can secure
     this for a few $FOXY by acting as a middleman. You just select the NFT you
     want to trade from a given wallet. Then you can propose your own NFT for
     trading. You will be sure that the trade will happen as you set it.
@@ -75,8 +78,7 @@ trade all your NFTs,. But there are lighter alternatives you can use like
     staking or events. But, an alternate way to get them is to trade them on the
     Famous foxes token market:
     <a href="https://famousfoxes.com/tokenmarket"
-      >famousfoxes.com/tokenmarket</a
-    >.
+      >famousfoxes.com/tokenmarket</a>.
   </p>
   <p>
     It acts like any decentralize exchange, you can set orders or buy directly

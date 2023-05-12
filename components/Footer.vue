@@ -5,7 +5,7 @@ If you enjoy what you read, please follow me on
 </div>
 
 <div class="mt-2 italic text-center">
-  You can learn more
+  Learn more
     <NuxtLink to="/about">about me</NuxtLink> and
   <NuxtLink to="/why">my motivations</NuxtLink>.
 </div>

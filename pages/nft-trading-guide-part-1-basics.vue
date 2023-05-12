@@ -190,6 +190,23 @@
       Alpha callers brag loud when they win, they don’t say anything when they
       miss their targets.
     </li>
+    <li>Some alpha callers are good and some are not. Do your research on them too.</li>
     <li>See alpha calls as market data not advice.</li>
   </ul>
+
+  <h2>Casino projects</h2>
+
+  <p>
+    Casinos are bad for many reasons. Even if they can unsure a quick flip, you
+    should avoid it because :
+  </p>
+
+  <ul>
+    <li>They drain wallets of Solana users and can destroy lives.</li>
+    <li>They don’t give a good image of the NFT market when newcomers come.</li>
+    <li>They don’t bring any value.</li>
+    <li>They rug often.</li>
+    <li>On the long term they mine the ecosystem.</li>
+  </ul>
+
 </template>

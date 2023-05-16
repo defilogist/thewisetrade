@@ -105,13 +105,14 @@
 </template>
 
 <script setup>
+const description = 'Guides and tips for Solana NFT trading, avoid mistakes and increase your chances of success'
 useHead({
-  title: 'The Wise Trade | Tips and guides for efficient NFT trading ',
+  title: 'The Wise Trade | NFT trading guide - The Basics',
   meta: [
-    {
-      name: 'description',
-      content: 'Guides and tips for Solana NFT trading, avoid mistakes and increase your chances of success' },
-      { name: 'og:image', content: 'https://wise.trade/lion_logo.png' },
+    { name: 'description', content: description },
+    { name: 'og:description', content: description },
+    { name: 'og:image', content: 'https://thewise.trade/lion_logo.png' },
+    { name: 'og:type', content: 'website' },
   ]
 })
 </script>

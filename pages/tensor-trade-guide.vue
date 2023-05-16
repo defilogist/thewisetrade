@@ -15,7 +15,7 @@
     tooling. But what to chose next? Good news, a platform recently emerged
     solving this problem:
     <a
-      href="https://www.notion.so/Tensor-Quickstart-Guide-e64e32bda68a4a92a201073afc11dd1d"
+      href="https://tensor.trade"
       >Tensor Trade</a
     >.
   </p>
@@ -42,8 +42,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da3698cd-c2b7-4a8b-a80f-f0f9aa5fb951/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-01.png"
+      alt="Screenshot 1"
     />
   </p>
   <h3 id="filters">
@@ -65,8 +65,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15b511db-dd22-4341-a7b1-617a1bb5e601/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-02.png"
+      alt="Screenshot 2"
     />
   </p>
   <p>
@@ -76,8 +76,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10e4cd3b-f914-4ad8-9d65-3c2142d2c1a0/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-03.png"
+      alt="Screenshot 3"
     />
   </p>
   <h3 id="favorites">
@@ -100,8 +100,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f5b83fe-dcb7-4ad5-8bd3-abcf0cf87249/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-04.png"
+      alt="Screenshot 4"
     />
   </p>
   <p>
@@ -110,8 +110,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b19a7a32-70db-4ce9-be2a-2348762a3e71/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-05.png"
+      alt="Screenshot 5"
     />
   </p>
   <h1 id="2-manage-your-inventory">2. Manage your inventory</h1>
@@ -129,8 +129,8 @@
   </ol>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dc9bf6f-877f-482f-bd97-c37624ae3f1a/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-06.png"
+      alt="Screenshot 6"
     />
   </p>
   <ol>
@@ -143,15 +143,15 @@
   </ol>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d93c059f-fc7d-4472-9137-40f71c4994fd/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-07.png"
+      alt="Screenshot 7"
     />
   </p>
   <p>The listing modal:</p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbad973a-b01d-492c-b96d-b840e7730adb/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-08.png"
+      alt="Screenshot 8"
     />
   </p>
   <p>
@@ -172,8 +172,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c647494-780d-4f83-94f5-3eee6aeb2a7c/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-09.png"
+      alt="Screenshot 9"
     />
   </p>
   <h3 id="collect-information-on-collection-recent-activity-rarities-and-more">
@@ -196,14 +196,14 @@
   </ul>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e91bf8f9-4917-4d14-944c-05a83052cb1f/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-10.png"
+      alt="Screenshot 10"
     />
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a501a885-cba7-4c22-a9ba-4bb5499cbf11/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-11.png"
+      alt="Screenshot 11"
     />
   </p>
   <p>
@@ -212,15 +212,15 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/868bba09-e21f-4703-b102-26ae69427bf1/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-12.png"
+      alt="Screenshot 12"
     />
   </p>
   <p>And a tab to track rare traits floor price:</p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb78dd57-2ef7-49ea-8d88-95ad086d0122/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-13.png"
+      alt="Screenshot 13"
     />
   </p>
   <p>
@@ -236,8 +236,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfc64fb1-d623-40f4-818b-e62a552e3567/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-14.png"
+      alt="Screenshot 14"
     />
   </p>
   <h3 id="bid-a-collection"><em>Bid a collection</em></h3>
@@ -251,8 +251,8 @@
   </p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3071f03-0c97-4ca5-b4f0-43fa085cc4b0/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-15.png"
+      alt="Screenshot 15"
     />
   </p>
   <h3 id="amm-and-swing-trading"><em>AMM and Swing Trading</em></h3>
@@ -272,8 +272,8 @@
   <p>Here is a very simple example of AMM settings for a single NFT:</p>
   <p>
     <img
-      src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b589aec5-f244-426c-a7d6-cce7aeb404db/Untitled.png"
-      alt="Untitled"
+      src="~/assets/images/screenshots/tensor-16.png"
+      alt="Screenshot 16"
     />
   </p>
   <p>

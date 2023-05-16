@@ -110,7 +110,8 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: 'Guides and tips for Solana NFT trading, avoid mistakes and increase your chances of success' }
+      content: 'Guides and tips for Solana NFT trading, avoid mistakes and increase your chances of success' },
+      { name: 'og:image', content: 'https://wise.trade/lion_logo.png' },
   ]
 })
 </script>

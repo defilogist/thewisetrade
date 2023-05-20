@@ -276,6 +276,11 @@
       alt="Screenshot 16"
     />
   </p>
+  <h3 id="notifications"><em>Notifications</em></h3>
+  <p>
+  You can set email or mobile notifications to always be aware when something
+  happes with your wallet: bid accepted, NFT sold, on AMM doing operations.
+  </p>
   <p>
     That’s it for this Tensor quickstart guide! I hope it was useful to you. If
     you don’t know this tool, I really encourage you to give it a try. I show

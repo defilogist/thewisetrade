@@ -8,9 +8,9 @@
   <h1>AMM Trading Guide</h1>
   <p>
     AMM stands for Automated Market Maker. AMMs are widely used in crypto by
-    decentralized exchanges to allow token swapping. Now the concept is adopted
-    by NFT marketplaces and apps. They allow a similar scheme for NFTs where
-    you can go in and out easily.
+    decentralized exchanges to allow token swapping. The concept was adopted
+    by NFT marketplaces and apps too. They allow a similar scheme for NFTs
+    where you can go in and out easily.
   </p>
   <p>
     The main issue of NFT collections is that they lack of liquidity, they are
@@ -107,8 +107,9 @@
     bid tied to the selling price. It applies a change when your buying bid
     decreases, your selling price decreases too and vice-versa if your selling
     price increase. That way you keep following floor variation to make sure
-    that you still provide liquidity to it (until you have enough sols for
-    that). And each time you collect fees.
+    that you still provide liquidity to it (until you have not enough sols for
+    that). And each time you collect the difference between your buying and
+    your selling.
   </p>
   <p>
     <em>Exemple</em>: Let’s say you create a pool with 36 $SOL and 3 LilyNFT.
@@ -169,11 +170,12 @@
     The best option is to put at least 10 NFTs. It works with less but you will
     be limited. A number between 10 an 100 is better in terms of flexibility
   </p>
-  <p><strong>Decide about your fees</strong></p>
+  <p><strong>Decide about your spread (named fees on some platforms)</strong></p>
   <p>
-    The more fees you ask, the harder it will be to get your bids and sells
-    accepted but the more rewarding it will be. It’s up to you to find the right
-    balance.
+    The more spread you ask, the harder it will be to get your bids and sells
+    accepted but the more rewarding it will be. It will require higher
+    volatility of the collection to see your orders activated. It’s up to you
+    to find the right balance.
   </p>
   <p><strong>Chose a collection you believe in</strong></p>
   <p>
@@ -189,7 +191,7 @@
     from this collection.
   </p>
   <p><strong>Set your strategy</strong></p>
-  <p><em>Bet on fees</em></p>
+  <p><em>Bet on spread fees</em></p>
   <p>
     The logic of AMMs is that you create your pool for the long term. So, the
     most common strategy is to add a large pool that will cover a wide range of
@@ -200,12 +202,13 @@
     income.
   </p>
   <p>
-    Of course, for this strategy, you will have to bet on collections with a
-    high volume.
+    Of course, for this strategy to be efficient, you will have to bet on
+    collections with a high volume.
   </p>
   <p><em>Swing trading</em></p>
   <p>
-    With a high delta parameter, you can chose to automate your swing trading.
+    If the collection evolves by doing up and down in the same range,
+    with a high delta parameter, you can chose to automate your swing trading.
     You sell when the floor is high and you buy when it’s low. The risk there is
     that the floor escapes your swing range. In that case, you will end with lot
     of NFTs of the collections or only sols. You must be ready to both
@@ -215,11 +218,12 @@
   <p>
     If you like a collection and see that it is dumping for wrong reasons, you
     may want to get into it progressively. For that you can set a pool, get
+    some m
   </p>
   <p><em>Gradually sell a collection while getting fees</em></p>
   <p>
     If you think that a collection is in phase of accumulation before pumping,
-    you can accumulate fees during the accumulation phase and while
+    you can accumulate spread flips during the accumulation phase and while
     automatically gradual selling.
   </p>
   <p><strong>Chose your parameters</strong></p>
@@ -228,9 +232,9 @@
     parameters:
   </p>
   <ul>
-    <li>Percentage curves are more protective</li>
-    <li>Higher fee is more rewarding but will lead to less trades</li>
-    <li>Higher delta will be more protective</li>
+    <li>Percentage or linear. Curves are more protective and linear more efficient)</li>
+    <li>Spread. Higher spread is more rewarding but will lead to less trades</li>
+    <li>Delta. Higher delta will be more protective but will lead to less trades.</li>
   </ul>
   <p>
     I encourage you to read this
@@ -242,9 +246,9 @@
   </p>
   <p><strong>Collect fees and/or close the pool</strong></p>
   <p>
-    Once you are satisfied with your setup, collect the fees on a regular basis.
-    Then close the pool when you’re happy with your current state ($SOLs or NFTs
-    collected).
+    Once you are satisfied with your setup, collect the spread fees on a
+    regular basis.  Then close the pool when you’re happy with your current
+    state ($SOLs or NFTs collected).
   </p>
   <p>
     If you figure out that you mess up with the parameters or things turned
@@ -259,7 +263,7 @@
     fully efficient.
   </p>
   <p>
-    It comes with a new opportunity for you to collect fees on swaps you
+    It comes with a new opportunity for you to collect spread fees on swaps you
     facilitated and it adds new possible strategies for your portfolio.
   </p>
   <p>

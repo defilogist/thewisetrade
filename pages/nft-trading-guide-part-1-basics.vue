@@ -6,7 +6,7 @@
     />
   </div>
 
-  <h1>NFT Trading guide basics</h1>
+  <h1>NFT Trading Guide - Basics</h1>
 
   <h2>Fundamentals</h2>
 
@@ -41,6 +41,9 @@
   <h2>Listing</h2>
 
   <ul>
+    <li>Choose a price that matches your strategy and the time you are ready to
+      wait.
+    </li>
     <li>
       Identify listing walls and list your NFTs slightly below to ensure its
       selling.
@@ -55,7 +58,8 @@
       Listing is great for settling your selling strategy. But it will prevent
       you from getting perks.
     </li>
-    <li>If you are holding on the long term it’s better to not list.</li>
+    <li>If you are holding on the long term it’s better to not list and check
+      the collection news from time to time.</li>
   </ul>
 
   <h2>Holding</h2>
@@ -66,8 +70,8 @@
       that’s not the case, don’t let it impact your investment strategy.
     </li>
     <li>
-      Many major collections have a sub collection. It’s better to buy the subs
-      since you can split the sell more easily.
+      Many major collections have a sub collection. Most of the time, it’s
+      better to buy the subs. You can split the sell more easily.
     </li>
     <li>
       It’s better to buy several NFTs from a collection and sell them gradually.
@@ -147,19 +151,19 @@
   <ul>
     <li>
       Before investing in a collection you should check the collection website,
-      Twitter and Discord
+      Twitter and Discord.
     </li>
-    <li>Bad art, poor website, unactive twitters are bad signals</li>
+    <li>Bad art, poor website, unactive twitters are bad signals.</li>
     <li>
       Discord with low activity or with floor price discussions only are bad
-      signals
+      signals.
     </li>
     <li>
-      Services attached to the NFT like software or goodies are good signals
+      Services attached to the NFT like software or goodies are good signals.
     </li>
     <li>
       Active communication from the team and good vibe from the community are
-      good signals
+      good signals.
     </li>
     <li>A high proportion of listing is a bad signal</li>
     <li>Absence of volume may be a bad signal (lack of activity).</li>
@@ -168,7 +172,7 @@
       they have a low listing rate.
     </li>
     <li>
-      Getting in early into a collection doesn’t mean getting in super early.
+      Getting early into a collection doesn’t mean getting in super early.
       For instance, you could have entered confidently in the Famous Foxes when
       they were selling at 10 sols. At that time they already proved their
       value. It would have been better to spot them earlier but 10 was still a

@@ -6,7 +6,7 @@
     />
   </div>
 
-  <h1>NFT Trading guide - Advanced</h1>
+  <h1>NFT Trading Guide - Advanced</h1>
 
   <h2>Probabilities</h2>
 
@@ -152,7 +152,7 @@
 <script setup>
 const description = 'Tips for Solana NFT trading, avoid mistakes and increase your chances of success'
 useHead({
-  title: 'The Wise Trade | NFT trading guide - Advanced',
+  title: 'The Wise Trade | NFT Trading Guide - Advanced',
   meta: [
     { name: 'description', content: description },
     { name: 'og:description', content: description },

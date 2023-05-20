@@ -129,3 +129,18 @@ trade all your NFTs,. But there are lighter alternatives you can use like
     if you have any suggestions!
   </p>
 </template>
+
+
+<script setup>
+const description =
+  "Tips for Solana NFT trading, avoid mistakes and increase your chances of success";
+useHead({
+  title: "The Wise Trade | Solana NFT Tools",
+  meta: [
+    { name: "description", content: description },
+    { name: "og:description", content: description },
+    { name: "og:image", content: "https://thewise.trade/lion_logo.png" },
+    { name: "og:type", content: "website" },
+  ],
+});
+</script>

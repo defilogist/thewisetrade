@@ -82,3 +82,17 @@
     </a>
   </div>
 </template>
+
+<script setup>
+const description = 'Tips for Solana NFT trading, avoid mistakes and increase your chances of success'
+useHead({
+  title: 'The Wise Trade | About',
+  meta: [
+    { name: 'description', content: description },
+    { name: 'og:description', content: description },
+    { name: 'og:image', content: 'https://thewise.trade/lion_logo.png' },
+    { name: 'og:type', content: 'website' },
+  ]
+})
+</script>
+

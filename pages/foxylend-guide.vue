@@ -325,3 +325,16 @@ glad to include them!
 
 <style lang="scss">
 </style>
+
+<script setup>
+const description = 'Tips for Solana NFT trading, avoid mistakes and increase your chances of success'
+useHead({
+  title: 'The Wise Trade | Foxylend Guide',
+  meta: [
+    { name: 'description', content: description },
+    { name: 'og:description', content: description },
+    { name: 'og:image', content: 'https://thewise.trade/lion_logo.png' },
+    { name: 'og:type', content: 'website' },
+  ]
+})
+</script>
